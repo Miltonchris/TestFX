@@ -51,8 +51,8 @@ header{
 	text-transform: uppercase;
 }
 
-.navbar-nav > .nav-item{
-	margin-right: 2rem;
+.nav-item{
+	margin-right: 4rem;
 }
 .navbar img {
 	height: 5.5rem;
