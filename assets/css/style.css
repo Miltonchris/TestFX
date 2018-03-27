@@ -175,11 +175,11 @@ header{
 .hero-2 p {
 	margin-bottom: 2rem;
 }
-.hero-2 img{
-    position: absolute;
-    top: 20px;
-    left: 50%;
-    transform: translate(-50%);
+.hero-2_logo{
+	height: 100%;
+    width: 100%;
+    text-align: center;
+    margin-top: 3rem;
 }
 .hero-list{
 	margin-left: 2rem;
